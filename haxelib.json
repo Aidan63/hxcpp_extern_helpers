@@ -2,5 +2,6 @@
     "classPath": "src",
     "name": "hxcpp_extern_helpers",
     "contributors": [ "Aidan" ],
-    "license": "MIT"
+    "license": "MIT",
+    "version": "1.0.0"
 }
